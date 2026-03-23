@@ -8,10 +8,12 @@
     "light": "#60a5fa",
     "dark": "#1d4ed8"
   },
-  "navigation": [
-    {
-      "group": "开始",
-      "pages": ["index"]
-    }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "开始",
+        "pages": ["index"]
+      }
+    ]
+  }
 }
