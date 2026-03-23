@@ -1,5 +1,11 @@
 {
   "name": "Claude Tutorial",
+  "favicon": "/lulu.ico",
+  "colors": {
+    "primary": "#3b82f6",
+    "light": "#60a5fa",
+    "dark": "#1d4ed8"
+  },
   "navigation": [
     {
       "group": "开始",
