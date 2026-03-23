@@ -12,7 +12,7 @@
     "groups": [
       {
         "group": "开始",
-        "pages": ["index"]
+        "pages": ["docs/index"]
       }
     ]
   }
