@@ -1,5 +1,0 @@
-site_name: Claude Tutorial
-theme:
-  name: material
-nav:
-  - 首页: Claude  tutorial.md

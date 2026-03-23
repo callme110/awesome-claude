@@ -1,0 +1,9 @@
+{
+  "name": "Claude Tutorial",
+  "navigation": [
+    {
+      "group": "开始",
+      "pages": ["index"]
+    }
+  ]
+}
