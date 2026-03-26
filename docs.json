@@ -11,7 +11,7 @@
   "navigation": {
     "groups": [
       {
-        "group": "开始",
+        "group": "starter",
         "pages": ["docs/index"]
       }
     ]
