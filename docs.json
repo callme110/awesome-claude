@@ -11,20 +11,20 @@
   "navigation": {
     "groups": [
       {
-        "group": "Docs",
+        "group": "docs",
         "pages": [
           {
             "group": "Mooncake AI Infra",
             "expanded": false,
             "pages": [
-              "Mooncake AI Infra/assistant"
+              "Mooncake AI Infra/Infra 入门"
             ]
           },
           {
             "group": "Claude Tutorial",
             "expanded": false,
             "pages": [
-              "Claude Tutorial/assistant"
+              "Claude Tutorial/claude_turtorial"
             ]
           }
         ]
