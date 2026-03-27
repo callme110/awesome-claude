@@ -8,12 +8,27 @@
     "light": "#60a5fa",
     "dark": "#1d4ed8"
   },
-  "navigation": [
-    {
-      "group": "Mooncake AI Infra"
-         },
-    {
-      "group": "Claude Tutorial"
-        }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "Docs",
+        "pages": [
+          {
+            "group": "Mooncake AI Infra",
+            "expanded": false,
+            "pages": [
+              "Mooncake AI Infra/assistant"
+            ]
+          },
+          {
+            "group": "Claude Tutorial",
+            "expanded": false,
+            "pages": [
+              "Claude Tutorial/assistant"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
