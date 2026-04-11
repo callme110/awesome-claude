@@ -11,31 +11,21 @@
   "navigation": {
     "groups": [
       {
-        "group": "Docs",
+        "group": "Mooncake AI Infra",
         "pages": [
-          "docs/index",
-          "docs/Assistant",
-          {
-            "group": "Mooncake AI Infra",
-            "expanded": false,
-            "pages": [
-              "docs/Mooncake AI Infra/index"
-            ]
-          },
-          {
-            "group": "Claude Turtorial",
-            "expanded": false,
-            "pages": [
-              "docs/Claude Turtorial/index"
-            ]
-          },
-          {
-            "group": "Privacy Inference",
-            "expanded": false,
-            "pages": [
-              "docs/Privacy Inference/index"
-            ]
-          }
+          "docs/Mooncake AI Infra/index"
+        ]
+      },
+      {
+        "group": "Claude Turtorial",
+        "pages": [
+          "docs/Claude Turtorial/index"
+        ]
+      },
+      {
+        "group": "Privacy Inference",
+        "pages": [
+          "docs/Privacy Inference/index"
         ]
       }
     ]
