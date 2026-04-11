@@ -13,6 +13,7 @@
       {
         "group": "Docs",
         "pages": [
+	   "index",
           {
             "group": "Mooncake AI Infra",
             "expanded": false,
