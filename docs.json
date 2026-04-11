@@ -19,21 +19,21 @@
             "group": "Mooncake AI Infra",
             "expanded": false,
             "pages": [
-              "Mooncake AI Infra/Infra 入门"
+              "Mooncake AI Infra/index"
             ]
           },
           {
             "group": "Claude Turtorial",
             "expanded": false,
             "pages": [
-              "Claude Turtorial/claude_turtorial"
+              "Claude Turtorial/index"
             ]
           },
           {
             "group": "Privacy Inference",
             "expanded": false,
             "pages": [
-              "Privacy Inference/Privacy Inference"
+              "Privacy Inference/index"
             ]
           }
         ]
