@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Inference Learning",
-  "favicon": "/docs/lulu.ico",
+  "favicon": "/lulu.ico",
   "colors": {
     "primary": "#3b82f6",
     "light": "#60a5fa",
@@ -11,21 +11,29 @@
   "navigation": {
     "groups": [
       {
-        "group": "Mooncake AI Infra",
+        "group": "Docs",
         "pages": [
-          "docs/Mooncake AI Infra/index"
-        ]
-      },
-      {
-        "group": "Claude Turtorial",
-        "pages": [
-          "docs/Claude Turtorial/index"
-        ]
-      },
-      {
-        "group": "Privacy Inference",
-        "pages": [
-          "docs/Privacy Inference/index"
+          {
+            "group": "Mooncake AI Infra",
+            "expanded": false,
+            "pages": [
+              "Mooncake AI Infra/index"
+            ]
+          },
+          {
+            "group": "Claude Turtorial",
+            "expanded": false,
+            "pages": [
+              "Claude Turtorial/index"
+            ]
+          },
+          {
+            "group": "Privacy Inference",
+            "expanded": false,
+            "pages": [
+              "Privacy Inference/index"
+            ]
+          }
         ]
       }
     ]
