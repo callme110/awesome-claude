@@ -13,24 +13,21 @@
       {
         "group": "Docs",
         "pages": [
-	   "index",
+          "index",
           {
             "group": "Mooncake AI Infra",
-            "expanded": false,
             "pages": [
               "Mooncake AI Infra/index"
             ]
           },
           {
-            "group": "Claude Turtorial",
-            "expanded": false,
+            "group": "Claude Tutorial",
             "pages": [
-              "Claude Turtorial/index"
+              "Claude Tutorial/index"
             ]
           },
           {
             "group": "Privacy Inference",
-            "expanded": false,
             "pages": [
               "Privacy Inference/index"
             ]
