@@ -23,8 +23,8 @@
           {
             "group": "Tools Tutorial",
             "pages": [
-              "docs/Tools Tutorial/Claude Tutorial",
-              "docs/Tools Tutorial/Psmux Tutorial"
+              "docs/Tools Tutorial/Claude Tutorial/index",
+              "docs/Tools Tutorial/Psmux Tutorial/index"
             ]
           },
           {
