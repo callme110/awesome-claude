@@ -22,20 +22,9 @@
           },
           {
             "group": "Tools Tutorial",
-            "root": "docs/tools-tutorial/index",
             "pages": [
-              {
-                "group": "Claude Tutorial",
-                "root": "docs/claude-tutorial/index",
-                "expanded": true,
-                "pages": []
-              },
-              {
-                "group": "Psmux Tutorial",
-                "root": "docs/psmux-tutorial/index",
-                "expanded": true,
-                "pages": []
-              }
+              "docs/Tools Tutorial/Claude Tutorial",
+              "docs/Tools Tutorial/Psmux Tutorial"
             ]
           },
           {
